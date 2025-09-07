@@ -1,4 +1,4 @@
 # apnacollege-demo
-This is my First Git Repository
+This is my First Git Repo
 <br>
-Author - Anmol Kashyap
+Author - Anmol (007)
